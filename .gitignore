@@ -1,0 +1,7 @@
+myenv/
+
+dist/
+
+build/
+
+main.specs
